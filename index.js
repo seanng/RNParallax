@@ -333,7 +333,7 @@ RNParallax.propTypes = {
   backgroundImage: PropTypes.number,
   navbarColor: PropTypes.string,
   title: PropTypes.string,
-  titleStyle: PropTypes.number,
+  titleStyle: PropTypes.any,
   headerMaxHeight: PropTypes.number,
   headerMinHeight: PropTypes.number,
   scrollEventThrottle: PropTypes.number,
